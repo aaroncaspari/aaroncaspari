@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aaroncaspari
-- 👀 I’m interested in ARM firmware development, embedded, security
+- 👀 I’m interested in ARM firmware development, embedded, security, vintage computers
 - 🌱 I’m currently learning rust, c
 - 📫 You can reach me here.
 
